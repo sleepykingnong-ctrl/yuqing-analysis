@@ -1,0 +1,27 @@
+/* Notion-like simple styling override */
+body {
+  background-color: #f7f7f5;
+  color: #37352f;
+}
+
+.report-preview-container {
+  font-family: 'Times New Roman', "SimSun", serif; 
+  line-height: 1.6;
+}
+
+.pdf-page {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  padding: 40px;
+  box-shadow: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
