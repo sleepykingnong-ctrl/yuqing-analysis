@@ -4,7 +4,7 @@ import { BookOpen, ChevronDown, ChevronUp, FileText, Download, Trash2, Info, X }
 
 // 默认配置
 const DEFAULT_CONFIG = {
-  appTitle: "舆情分析工作台",
+  appTitle: "舆情发展五阶段案例分析报告",
   stages: [],
   roles: [],
   civicQuestions: []
